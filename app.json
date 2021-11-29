@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "8020react",
+    "slug": "8020react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "8020react"
+}
